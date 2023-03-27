@@ -1,0 +1,10 @@
+INSERT INTO GEOGRAPHY_COLUMNS (id, city_name) VALUES (101, 'che');
+INSERT INTO GEOGRAPHY_COLUMNS (id, city_name) VALUES (102, 'che');
+INSERT INTO GEOGRAPHY_COLUMNS (id, city_name) VALUES (103, 'num');
+INSERT INTO GEOGRAPHY_COLUMNS (id, city_name) VALUES (104, 'num');
+INSERT INTO GEOGRAPHY_COLUMNS (id, city_name) VALUES (105, 'bangalore');
+INSERT INTO GEOGRAPHY_COLUMNS (id, city_name) VALUES (106, 'cochin');
+INSERT INTO WEBSITE_STATUS (id, site) VALUES (101, 'www.go-yubi.com');
+INSERT INTO WEBSITE_STATUS (id, site) VALUES (102, 'www.google.com');
+INSERT INTO WEBSITE_STATUS (id, site) VALUES (103, 'https://rera.goa.gov.in/reraApp/');
+INSERT INTO WEBSITE_STATUS (id, site) VALUES (104, 'https://www.linkedin.com/');
